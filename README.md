@@ -1,3 +1,4 @@
+﻿ajouter depuis le pc de Ines
 #A propos de ce plugin
 
 Remarque très importante : Ce plugin fonctionne seulement si l'extension getText n'est pas installer sur votre serveur
