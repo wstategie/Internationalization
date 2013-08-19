@@ -1,4 +1,4 @@
-#A propos
+#A propos de ce plugin
 
 Vous souhaitez internationnaliser votre site en PHP et vous ne savez pas comment?
 Rien de complexe transformer rapidement le langage de votre site sans passer par d'autres libraies complexes (getText par exemple)
