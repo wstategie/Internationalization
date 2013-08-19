@@ -1,5 +1,7 @@
 #A propos de ce plugin
 
+Remarque très importante : Ce plugin fonctionne seulement si l'extension getText n'est pas installer sur votre serveur
+
 Vous souhaitez internationnaliser votre site en PHP et vous ne savez pas comment?
 Rien de complexe transformer rapidement le langage de votre site sans passer par d'autres libraies complexes (getText par exemple)
 
